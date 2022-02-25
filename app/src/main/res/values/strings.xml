@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginPage</string>
+    <string name="login">Login</string>
+    <string name="forgotpassword">ForgotPassword</string>
+    <string name="password">Password :</string>
+    <string name="usename">Usename :</string>
+    <string name="zaleado">ZaleaDO</string>
+</resources>
