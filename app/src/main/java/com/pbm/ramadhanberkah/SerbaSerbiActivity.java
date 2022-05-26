@@ -7,6 +7,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
+import com.pbm.ramadhanberkah.Hadist.HadistActivity;
 import com.pbm.ramadhanberkah.Kuis.QuizActivity;
 
 public class SerbaSerbiActivity extends AppCompatActivity {
@@ -25,13 +26,13 @@ public class SerbaSerbiActivity extends AppCompatActivity {
         cvKuis = (CardView) findViewById(R.id.cv_kuis);
 
 //        //cvSerbaSerbi Event Handler Onclick
-//        cvHadist.setOnClickListener(new View.OnClickListener() {
-//            @Override
-//            public void onClick(View view) {
-//                Intent intent = new Intent(SerbaSerbiActivity.this, HadistActivity.class);
-//                startActivity(intent);
-//            }
-//        });
+        cvHadist.setOnClickListener(new View.OnClickListener() {
+           @Override
+           public void onClick(View view) {
+               Intent intent = new Intent(SerbaSerbiActivity.this, HadistActivity.class);
+               startActivity(intent);
+           }
+      });
 
         //cvNgabuburit Event Handler Onclick
         cvNgabuburit.setOnClickListener(new View.OnClickListener() {
