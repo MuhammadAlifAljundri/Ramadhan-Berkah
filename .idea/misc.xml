@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/drawable/background.xml" value="0.2265" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/drawable/bg_rounded_all.xml" value="0.1" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/layout/activity_highest_score.xml" value="0.1" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/layout/activity_kisah_para_sahabat_nabi1.xml" value="0.1" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/layout/activity_kisah_para_sahabat_nabi2.xml" value="0.11458333333333333" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/layout/activity_kisah_para_sahabat_nabi3.xml" value="0.11458333333333333" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/layout/activity_ngabuburit.xml" value="0.22826086956521738" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/layout/activity_quiz.xml" value="0.1" />
+        <entry key="..\:/KURSUS/Ramdhan Berkah/app/src/main/res/layout/activity_serba_serbi.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
